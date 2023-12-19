@@ -16,9 +16,23 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Alexander Costello",
     "section": "",
-    "text": "About this site\nAbout Me\n\n1 + 1\n\n[1] 2"
+    "text": "Villanova University | Villanova, PA | MS in Applied Statistics\nMillersville University | Millersville, PA | BA in Political Economics & Philosophy"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Alexander Costello",
+    "section": "",
+    "text": "Villanova University | Villanova, PA | MS in Applied Statistics\nMillersville University | Millersville, PA | BA in Political Economics & Philosophy"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Alexander Costello",
+    "section": "Experience",
+    "text": "Experience\nThe Hershey Company | Data Scientist\nPfizer | Statistical Programmer\nBryn Mawr College | Instructor / Teaching Assistant\nVillanova University | Research Assistant\nPNC Bank | Client Service Associate - Private Bank\nFulton Bank | Management Trainee / 401(k) Participant Engagement Specialist"
   },
   {
     "objectID": "posts/2023_12_19_first_post/index.html",
