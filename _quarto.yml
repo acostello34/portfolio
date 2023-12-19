@@ -6,9 +6,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-      - posts.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About"
+      - href: posts.qmd
+        text: "Blog"
 
 format:
   html:

@@ -1,11 +1,35 @@
 ---
-title: "About"
+title: "Alexander Costello"
+about:
+  template: jolla
+  image: img/turtleneck.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://acostello34.github.io/portfolio
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/alexander-costello
 ---
 
-About this site
+## Education
 
-About Me
+Villanova University \| Villanova, PA \| MS in Applied Statistics
 
-```{r}
-1 + 1
-```
+Millersville University \| Millersville, PA \| BA in Political Economics & Philosophy
+
+
+## Experience
+
+The Hershey Company \| Data Scientist
+
+Pfizer \| Statistical Programmer 
+
+Bryn Mawr College \| Instructor / Teaching Assistant
+
+Villanova University \| Research Assistant 
+
+PNC Bank \| Client Service Associate - Private Bank 
+
+Fulton Bank \| Management Trainee / 401(k) Participant Engagement Specialist 
+
