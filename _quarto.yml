@@ -17,6 +17,10 @@ format:
     theme: lux
     css: styles.css
     toc: true
+    
+comments:
+  giscus:
+    repo: acostello34/portfolio
 
 editor: source
 
