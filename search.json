@@ -4,14 +4,21 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "first post\n\n\n\nQuarto\n\n\nR\n\n\nStatistics\n\n\nData Science\n\n\n\nshort post description - testing testing 1 2 3\n\n\n\nAlex Costello\n\n\nDec 19, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "some songs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfirst post\n\n\n\nQuarto\n\n\nR\n\n\nStatistics\n\n\nData Science\n\n\n\nshort post description - testing testing 1 2 3\n\n\n\nAlex Costello\n\n\nDec 19, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Aleatoric Considerations",
+    "objectID": "posts/2023_12_19_first_post/index.html",
+    "href": "posts/2023_12_19_first_post/index.html",
+    "title": "first post",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Some bullets:\n\none\ntwo\nthree\n\nfour"
+  },
+  {
+    "objectID": "posts/2023_12_19_first_post/index.html#heading-2",
+    "href": "posts/2023_12_19_first_post/index.html#heading-2",
+    "title": "first post",
+    "section": "",
+    "text": "Some bullets:\n\none\ntwo\nthree\n\nfour"
   },
   {
     "objectID": "about.html",
@@ -35,17 +42,24 @@
     "text": "Experience\nThe Hershey Company | Data Scientist\nPfizer | Statistical Programmer\nBryn Mawr College | Instructor / Teaching Assistant\nVillanova University | Research Assistant\nPNC Bank | Client Service Associate - Private Bank\nFulton Bank | Management Trainee / 401(k) Participant Engagement Specialist"
   },
   {
-    "objectID": "posts/2023_12_19_first_post/index.html",
-    "href": "posts/2023_12_19_first_post/index.html",
-    "title": "first post",
-    "section": "",
-    "text": "Some bullets:\n\none\ntwo\nthree\n\nfour"
+    "objectID": "about.html#volunteer",
+    "href": "about.html#volunteer",
+    "title": "Alexander Costello",
+    "section": "Volunteer",
+    "text": "Volunteer\nConsultant | DataFest Philly"
   },
   {
-    "objectID": "posts/2023_12_19_first_post/index.html#heading-2",
-    "href": "posts/2023_12_19_first_post/index.html#heading-2",
-    "title": "first post",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A Costello’s Travelling Caravan",
     "section": "",
-    "text": "Some bullets:\n\none\ntwo\nthree\n\nfour"
+    "text": "“You have to play the game to find out why you’re playing the game”\n\n# some code\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/2023_12_24_rave_classics/index.html",
+    "href": "posts/2023_12_24_rave_classics/index.html",
+    "title": "some songs",
+    "section": "",
+    "text": "Music session\nActive Listening\nSpotify Rave Classics Playlist\nFirst song:\n\nOriginal Nuttah 25 - Uk Apache, SHY FX\n\nInteresting that the break was just a snare roll\n\nvery straightforward beat with minimal elements\nBass is left to carry the low end and snare sets the groove\n\nOn a Ragga Tip ’97 - SL2\n\nAlso simple. Kick, Snare, HH, Bass, Synth Riff, Vocals\n\nBeep Street - Squarepusher\n\nMan this snare roll is so sick (intro)\n(1 min 20 sec) I can really hear the influence on more recent artists. For some reason, Tycho jumps to mind with this snare groove\nI listened to Awake earlier today but also picked up a boards of canada vinyl the other week"
   }
 ]
