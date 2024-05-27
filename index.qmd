@@ -1,11 +1,10 @@
 ---
-title: "Aleatoric Considerations"
+title: "A Costello's Travelling Caravan"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+"You have to play the game to find out why you're playing the game"
 
 ```{r}
+# some code
 1 + 1
 ```
