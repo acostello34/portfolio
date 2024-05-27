@@ -21,32 +21,18 @@
     "text": "Some bullets:\n\none\ntwo\nthree\n\nfour"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
     "title": "Alexander Costello",
-    "section": "",
-    "text": "Villanova University | Villanova, PA | MS in Applied Statistics\nMillersville University | Millersville, PA | BA in Political Economics & Philosophy"
+    "section": "Interests",
+    "text": "Interests\nI have been interested in making electronic music for a few years now. Here are some of the tools I’m currently using in:\nModular Synths; Elektron Gear; Ableton Live; Guitar(s); Max/MSP; Pure Data; Critter & Guitarri\nI also caught the vinyl bug in 2024 …"
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
+    "objectID": "about.html#resume",
+    "href": "about.html#resume",
     "title": "Alexander Costello",
-    "section": "",
-    "text": "Villanova University | Villanova, PA | MS in Applied Statistics\nMillersville University | Millersville, PA | BA in Political Economics & Philosophy"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Alexander Costello",
-    "section": "Experience",
-    "text": "Experience\nThe Hershey Company | Data Scientist\nPfizer | Statistical Programmer\nBryn Mawr College | Instructor / Teaching Assistant\nVillanova University | Research Assistant\nPNC Bank | Client Service Associate - Private Bank\nFulton Bank | Management Trainee / 401(k) Participant Engagement Specialist"
-  },
-  {
-    "objectID": "about.html#volunteer",
-    "href": "about.html#volunteer",
-    "title": "Alexander Costello",
-    "section": "Volunteer",
-    "text": "Volunteer\nConsultant | DataFest Philly"
+    "section": "Resume",
+    "text": "Resume\n\n  \n     Download Resume"
   },
   {
     "objectID": "index.html",
