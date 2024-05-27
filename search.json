@@ -2,9 +2,9 @@
   {
     "objectID": "posts.html",
     "href": "posts.html",
-    "title": "Blog",
+    "title": "Goods",
     "section": "",
-    "text": "some songs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfirst post\n\n\n\nQuarto\n\n\nR\n\n\nStatistics\n\n\nData Science\n\n\n\nshort post description - testing testing 1 2 3\n\n\n\nAlex Costello\n\n\nDec 19, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "some songs\n\n\n\nmusic\n\n\nspotify\n\n\nrave\n\n\n\nshort post on music\n\n\n\nAlex Costello\n\n\nDec 24, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfirst post\n\n\n\nQuarto\n\n\nR\n\n\nStatistics\n\n\nData Science\n\n\n\nshort post description - testing testing 1 2 3\n\n\n\nAlex Costello\n\n\nDec 19, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2023_12_19_first_post/index.html",
@@ -51,15 +51,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "A Costello’s Travelling Caravan",
+    "title": "Costello’s Travelling Thought Caravan",
     "section": "",
-    "text": "“You have to play the game to find out why you’re playing the game”\n\n# some code\n1 + 1\n\n[1] 2"
+    "text": "“You have to play the game to find out why you’re playing the game”\nI would like to use this space to begin collecting and categorizing my thoughts and hobbies. I would also like to go through some of my graduate course work to pull out and save interesting projects. I loved the MS program at Villanova and have continued to sharpen my git and quarto skills as a data scientist. One downside to working with sensitive data is the opacity of my projects so I would like to find interesting ways to explore some of the ideas and concepts I use in my current role."
   },
   {
     "objectID": "posts/2023_12_24_rave_classics/index.html",
     "href": "posts/2023_12_24_rave_classics/index.html",
     "title": "some songs",
     "section": "",
-    "text": "Music session\nActive Listening\nSpotify Rave Classics Playlist\nFirst song:\n\nOriginal Nuttah 25 - Uk Apache, SHY FX\n\nInteresting that the break was just a snare roll\n\nvery straightforward beat with minimal elements\nBass is left to carry the low end and snare sets the groove\n\nOn a Ragga Tip ’97 - SL2\n\nAlso simple. Kick, Snare, HH, Bass, Synth Riff, Vocals\n\nBeep Street - Squarepusher\n\nMan this snare roll is so sick (intro)\n(1 min 20 sec) I can really hear the influence on more recent artists. For some reason, Tycho jumps to mind with this snare groove\nI listened to Awake earlier today but also picked up a boards of canada vinyl the other week"
+    "text": "Really just testing out the workflow to create posts…..\nMusic session\nActive Listening\nSpotify Rave Classics Playlist\nFirst song:\n\nOriginal Nuttah 25 - Uk Apache, SHY FX\n\nInteresting that the break was just a snare roll\n\nvery straightforward beat with minimal elements\nBass is left to carry the low end and snare sets the groove\n\nOn a Ragga Tip ’97 - SL2\n\nAlso simple. Kick, Snare, HH, Bass, Synth Riff, Vocals\n\nBeep Street - Squarepusher\n\nMan this snare roll is so sick (intro)\n(1 min 20 sec) I can really hear the influence on more recent artists. For some reason, Tycho jumps to mind with this snare groove\nI listened to Awake earlier today but also picked up a boards of canada vinyl the other week\n\n\n\n\n\nCitationBibTeX citation:@online{costello2023,\n  author = {Costello, Alex},\n  title = {Some Songs},\n  date = {2023-12-24},\n  url = {https://acostello34.github.io/portfolio/posts/2024_12_24_rave_classics/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nCostello, Alex. 2023. “Some Songs.” December 24, 2023. https://acostello34.github.io/portfolio/posts/2024_12_24_rave_classics/."
   }
 ]
