@@ -1,10 +1,7 @@
 ---
-title: "A Costello's Travelling Caravan"
+title: "Costello's Travelling Thought Caravan"
 ---
 
 "You have to play the game to find out why you're playing the game"
 
-```{r}
-# some code
-1 + 1
-```
+I would like to use this space to begin collecting and categorizing my thoughts and hobbies. I would also like to go through some of my graduate course work to pull out and save interesting projects. I loved the MS program at Villanova and have continued to sharpen my git and quarto skills as a data scientist. One downside to working with sensitive data is the opacity of my projects so I would like to find interesting ways to explore some of the ideas and concepts I use in my current role.

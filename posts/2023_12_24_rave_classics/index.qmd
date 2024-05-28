@@ -1,6 +1,18 @@
 ---
 title: "some songs"
+description: "short post on music"
+author:
+  - name: Alex Costello
+    url: https://acostello34.github.io/portfolio
+date: 12-24-2023
+categories: [music, spotify, rave] # self-defined categories
+citation: 
+  url: https://acostello34.github.io/portfolio/posts/2024_12_24_rave_classics/ 
+image: image1.png
+draft: false
 ---
+
+Really just testing out the workflow to create posts.....
 
 Music session
 

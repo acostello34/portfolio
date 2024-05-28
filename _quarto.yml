@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "A Costello's Travelling Caravan"
+  title: "Costello's Travelling Thought Caravan"
   navbar:
     left:
       - href: index.qmd

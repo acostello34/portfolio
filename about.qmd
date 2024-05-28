@@ -1,5 +1,8 @@
 ---
 title: "Alexander Costello"
+engine: knitr
+cv:
+  pdf: "costello_2024.pdf"
 about:
   template: jolla
   image: img/turtleneck.jpg
@@ -12,27 +15,47 @@ about:
       href: https://www.linkedin.com/in/alexander-costello
 ---
 
-## Education
 
-Villanova University \| Villanova, PA \| MS in Applied Statistics
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
 
-Millersville University \| Millersville, PA \| BA in Political Economics & Philosophy
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
+
+## Interests 
+
+I have been interested in making electronic music for a few years now. Here are some of the tools I'm currently using in:
+
+Modular Synths; Elektron Gear; Ableton Live; Guitar(s); Max/MSP; Pure Data; Critter & Guitarri
+
+I also caught the vinyl bug in 2024 ...
+
+## Resume
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Resume
+  </a>
+</p>
+
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
+</div>
+```
 
 
-## Experience
-
-The Hershey Company \| Data Scientist
-
-Pfizer \| Statistical Programmer 
-
-Bryn Mawr College \| Instructor / Teaching Assistant
-
-Villanova University \| Research Assistant 
-
-PNC Bank \| Client Service Associate - Private Bank 
-
-Fulton Bank \| Management Trainee / 401(k) Participant Engagement Specialist 
-
-## Volunteer 
-
-Consultant \| DataFest Philly 

@@ -1,0 +1,25 @@
+---
+title: "audio"
+description: "let's test some methods to embed audio"
+author:
+  - name: Alex Costello
+    url: https://acostello34.github.io/portfolio
+date: 05-27-2024
+categories: [Music] # self-defined categories
+citation: 
+  url: https://acostello34.github.io/portfolio/posts/2024_05_27_testing_audio/ 
+image: audio1.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Quarto video
+
+This was from October 2023 and was based on a prompt from blood milk jewelery / chelsea wolfe. Unfortunately I did not complete all prompts
+
+{{< video chrysalis.mp4 >}}
+
+# Audio 
+
+Random short synth snippet.
+
+![audio_testing](13-Main-00003.wav)
